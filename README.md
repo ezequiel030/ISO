@@ -7,7 +7,7 @@ Los visigodos fueron distintos pueblos bárbaros que, sin encontrar oposición, 
 Se estableció un tratado en el cual se disponía que los visigodos se asentaran en el sur de la Galia y controlaran algunos territorios en Hispania.
 
 ## Índice
-1. Época
+1. [Epoca](epoca.md)
 2. Arquitectura
 3. Obras más significativas
 
